@@ -1,17 +1,3 @@
-# n=input("enter")
-# i=0
-# while i<10:
-#       i+=1
-#       print(i)
-
-
-# n=int(input("enter"))
-# i=1
-# sum=0
-# while  i<=n:
-#        sum=sum+i
-#        i+=1
-#        print(sum)
 
 # n=int(input("enter"))
 # i=2
@@ -44,3 +30,5 @@ while i<=n:
       p*i
       i+=1
       print(p)
+
+      
