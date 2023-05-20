@@ -23,12 +23,33 @@
 #        i+=7
 #        print(i)
 
-n=int(input("enter"))
-i=1
-p=1
-while i<=n:
-      p*i
-      i+=1
-      print(p)
+# n=int(input("enter"))
+# i=1
+# p=1
+# while i<=n:
+#       p*i
+#       i+=1
+#       print(p)
 
-      
+# a=int(input("enter1"))
+# b=int(input("enter2"))
+# c=str(input("enter3"))
+# if  c=="+":
+#     print(a+b)
+# elif  c=="-":
+#     print(a-b)
+# elif c=="*":
+#    print(a*b)
+# elif  c=="/":
+#     print(a/b)
+# else:
+#     print("invalid")
+    
+
+    
+# a=input("enter")
+# if a==:
+#     print("yes")
+# else:
+#     print("no")
+
